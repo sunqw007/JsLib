@@ -1,3 +1,1 @@
-(function () {
-    
-})(this);
+(function () {})(this);
